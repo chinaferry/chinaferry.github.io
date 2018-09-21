@@ -1,2 +1,2 @@
 # chinaferry.github.io
-A site powered by Github Page
+A site powered by Github Pages
